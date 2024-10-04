@@ -106,7 +106,7 @@ for i in range(len(max_temps)):
 
 #The reason we use max_temps is because the given length of max_temps and min_temps are known and equal.
 
-print(f"The average maximum temperature is: {sum_max_temp/len(max_temps)} °F and the average minimum temperature is: {(sum_min_temp/len(min_temps)):.1f} °F.")
+print(f"The average maximum temperature is {sum_max_temp/len(max_temps)} °F and the average minimum temperature is {(sum_min_temp/len(min_temps)):.1f} °F.")
 
 # You cannot use any pre-existing functions (like mean()) and must perform the calculations manually.
 # Output the results of both calculations.
