@@ -1,12 +1,11 @@
-# Your Name Here
+# John Clancy
 # UWYO COSC 1010
-# Submission Date
+# 10/3/2024
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section: 13 
+# Sources, people worked with, help given to: See Attached
+# Used Brave AI to verify proper syntax for len and range statements for "for" loop.
+# Used Brave AI to verify proper syntax in f strings for rounding float-type numbers.
 
 
 
@@ -107,12 +106,12 @@ for i in range(len(max_temps)):
 
 #The reason we use max_temps is because the given length of max_temps and min_temps are known and equal.
 
-print(f"The average maximum temperature is: {sum_max_temp/len(max_temps)}°F and the average minimum temperature is: {(sum_min_temp/len(min_temps)):.1f} °F")
+print(f"The average maximum temperature is: {sum_max_temp/len(max_temps)} °F and the average minimum temperature is: {(sum_min_temp/len(min_temps)):.1f} °F.")
 
 # You cannot use any pre-existing functions (like mean()) and must perform the calculations manually.
 # Output the results of both calculations.
 # For the next part, determine the highest and lowest recorded temperatures.
 # HINT: You can find this information without using any logic or looping.
 
-print(f"The highest recorded temperature in Laramie was: {max(max_temps)} °F")
-print(f"The lowest recorded temperature in Laramie was: {min(min_temps)} °F")
+print(f"The highest recorded temperature in Laramie was: {max(max_temps)} °F.")
+print(f"The lowest recorded temperature in Laramie was: {min(min_temps)} °F.")

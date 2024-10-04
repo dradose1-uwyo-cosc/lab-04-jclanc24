@@ -1,12 +1,10 @@
-# Your Name Here
+# John Clancy
 # UWYO COSC 1010
-# Submission Date
+# Submission Date: 10/3/2024
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section: 13
+# Sources, people worked with, help given to: See attached.  
+# Checked Brave AI tool to verify proper syntax for looping multiple lists using len and range statements.
 
 
 
